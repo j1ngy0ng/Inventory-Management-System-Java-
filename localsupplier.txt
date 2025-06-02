@@ -1,0 +1,14 @@
+S0001|Alpha Groceries|60123456789|123 Elm Street|alphagroceries@example.com
+S0002|Beta Food Supplies|60124567890|456 Oak Avenue|betafoods@example.com
+S0003|Gamma Grocers|60125678901|789 Pine Road|gammagrocers@example.com
+S0004|Delta Provisions|60126789012|321 Maple Lane|deltaprovisions@example.com
+S0005|Epsilon Fresh Foods|60127890123|654 Birch Boulevard|epsilonfresh@example.com
+S0006|Zeta Groceries|60128901234|111 Cedar Street|zetagroceries@example.com
+S0007|Eta Food Mart|60129012345|222 Walnut Avenue|etafoodmart@example.com
+S0008|Theta Supplies|60130123456|333 Spruce Road|thetasupplies@example.com
+S0009|Iota Grocers|60131234567|444 Redwood Lane|iotagrocers@example.com
+S0011|Lambda Fresh Foods|60133456789|666 Birch Street|lambdafresh@example.com
+S0012|Mu Groceries|60134567890|777 Oak Road|mugroceries@example.com
+S0013|Nu Food Supplies|60135678901|888 Pine Avenue|nufoods@example.com
+S0014|Xi Grocers|60136789012|999 Maple Lane|xigrocers@example.com
+S0015|Omicron Provisions|60137890123|1010 Cedar Boulevard|omicronprovisions@example.com

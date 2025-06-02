@@ -1,0 +1,5 @@
+userID1|Password1|user1@example.com|admin|Alice Smith|123-456-7890
+userID2|Password2|user2@example.com|clerk|Bob Johnson|987-654-3210
+userID3|Password3|user3@example.com|manager|Carol White|456-123-7890
+userID4|Password4|user4@example.com|admin|Dave Brown|321-654-9870
+userID5|Password5|user5@example.com|clerk|Eva Green|654-789-1230

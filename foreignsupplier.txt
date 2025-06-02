@@ -1,0 +1,14 @@
+F0001|Global Groceries|44123456789|789 London Road|globalgroceries@example.co.uk
+F0002|Continental Foods|44234567890|456 Paris Street|continentalfoods@example.fr
+F0003|World Grocers|44345678901|123 Berlin Avenue|worldgrocers@example.de
+F0004|International Provisions|44456789012|321 Rome Lane|intprovisions@example.it
+F0005|Universal Fresh Foods|44567890123|654 Madrid Boulevard|universalfoods@example.es
+F0006|Planet Groceries|44678901234|111 Tokyo Street|planetgroceries@example.jp
+F0007|Galactic Food Mart|44789012345|222 Sydney Avenue|galacticfoodmart@example.au
+F0008|Solar Supplies|44890123456|333 Toronto Road|solarsupplies@example.ca
+F0009|Cosmic Grocers|44901234567|444 New York Lane|cosmicgrocers@example.us
+F0010|Astral Provisions|44102345678|555 Rio Boulevard|astralprovisions@example.br
+F0011|Stellar Fresh Foods|44213456789|666 Cape Town Street|stellarfresh@example.za
+F0012|Orbital Groceries|44324567890|777 Dubai Road|orbitalgroceries@example.ae
+F0013|Interstellar Food Supplies|44435678901|888 Mumbai Avenue|interstellarfoods@example.in
+F0015|Universal Provisions|44657890123|1010 Moscow Boulevard|universalprovisions@example.ru
